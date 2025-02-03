@@ -10,7 +10,8 @@ from nltk.tokenize import word_tokenize
 nltk.download('punkt')
 nltk.download('stopwords')
 #download necessary llema details
-model_name = "mistralai/Mistral-7B-Instruct-v0.3"
+model_name = "Mistral-Small-24B-Instruct-2501"
+#"mistralai/Mistral-7B-Instruct-v0.3"
 #"dmis-lab/biobert-base-cased-v1.1"
 #"meta-llama/Llama-2-7b-chat-hf"
 #"peteparker456/medical_diagnosis_llama2" 
